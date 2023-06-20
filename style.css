@@ -71,7 +71,7 @@
     z-index: 0;
 }
 .home .img {
-    display: flex;
+      display: flex;
       flex-direction: row;
       align-items: center;
       justify-content: center;
@@ -151,7 +151,7 @@
 .home .img img {
     right: 0;
     position: relative;
-    width: 70%;
+    width: 100%;
     align-items: center;
 }
 .home .img {
